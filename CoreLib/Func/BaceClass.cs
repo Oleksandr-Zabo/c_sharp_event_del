@@ -1,5 +1,4 @@
-﻿namespace c_sharp_event_del.Func;
-
+﻿namespace CoreLib;
 public class BaceClass
 {
     public static int Add(int a, int b)

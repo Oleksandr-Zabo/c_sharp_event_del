@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c_sharp_event_del", "c_sharp_event_del\c_sharp_event_del.csproj", "{E4DF5996-18DC-4DDE-8C91-E67C7E331869}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMSProject", "TestMSProject\TestMSProject.csproj", "{E4301CE9-4116-4726-94FE-D27642F6D294}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreLib", "CoreLib\CoreLib.csproj", "{22406D43-718F-4F1A-ACAD-3C8211AD3082}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{E4DF5996-18DC-4DDE-8C91-E67C7E331869}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4DF5996-18DC-4DDE-8C91-E67C7E331869}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4DF5996-18DC-4DDE-8C91-E67C7E331869}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4301CE9-4116-4726-94FE-D27642F6D294}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4301CE9-4116-4726-94FE-D27642F6D294}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4301CE9-4116-4726-94FE-D27642F6D294}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4301CE9-4116-4726-94FE-D27642F6D294}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22406D43-718F-4F1A-ACAD-3C8211AD3082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22406D43-718F-4F1A-ACAD-3C8211AD3082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22406D43-718F-4F1A-ACAD-3C8211AD3082}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22406D43-718F-4F1A-ACAD-3C8211AD3082}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
