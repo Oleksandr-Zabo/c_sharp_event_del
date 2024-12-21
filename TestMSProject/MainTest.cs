@@ -1,7 +1,7 @@
 ﻿namespace TestMSProject;
 
 [TestClass]
-public sealed class Test1
+public sealed class MainTest
 {
     [TestMethod]
     public void TestMethodAdd()
